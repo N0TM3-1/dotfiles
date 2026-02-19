@@ -1,0 +1,19 @@
+[mgr]
+sort_by = "natural"
+sort_dir_first = true
+sort_translist = true
+show_hidden = true
+show_symlink = true
+
+[opener]
+edit = [
+    {run = "code %s", block = true, orphan = true}
+]
+image = [
+    {run = "feh %s", block = true, orphan = true},
+]
+
+[open]
+rules = [
+    {mime = "image/*", use = "image"}
+]
