@@ -1,5 +1,7 @@
 # Riceathon Dotfiles
 
+![Badge](https://hackatime-badge.hackclub.com/U081WSNR8TG/riceathon)
+
 My personal Hyprland desktop setup with all the configuration files you need to get a sleek, productive Linux desktop up and running.
 
 ![Riceathon Screenshot](screenshot.png)
