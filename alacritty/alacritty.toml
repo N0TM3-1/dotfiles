@@ -2,8 +2,10 @@ general.live_config_reload = true
 
 [window]
 opacity = 0.7
+padding = {x = 10, y = 10}
 
 [font]
+size = 11.0
 
 [font.normal]
 family = "Fira Code"
@@ -16,3 +18,45 @@ style = "Bold"
 [font.italic]
 family = "Fira Code"
 style = "Italic"
+
+[colors.primary]
+background = "#0B0F2B"
+foreground = "#EAEAFB"
+
+[colors.cursor]
+text = "#0B0F2B"
+cursor = "#F6C65B"
+
+[colors.selection]
+text = "#0B0F2B"
+background = "#B04BA3"
+
+[colors.normal]
+black   = "#151A3F"
+red     = "#C34A2C"
+green   = "#2E8B57"
+yellow  = "#F6C65B"
+blue    = "#1E3A8A"
+magenta = "#B04BA3"
+cyan    = "#3EC7B6"
+white   = "#B8B9E6"
+
+[colors.bright]
+black   = "#3B3F7A"
+red     = "#E05A33"
+green   = "#3FAF73"
+yellow  = "#FFD977"
+blue    = "#3B5FCC"
+magenta = "#D16BD3"
+cyan    = "#6FE4D6"
+white   = "#FFFFFF"
+
+[colors.dim]
+black   = "#0F1333"
+red     = "#8C2F1C"
+green   = "#1E6B45"
+yellow  = "#C8A347"
+blue    = "#14285E"
+magenta = "#7A3E9D"
+cyan    = "#279D8F"
+white   = "#8A8DBF"

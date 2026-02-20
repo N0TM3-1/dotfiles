@@ -1,0 +1,16 @@
+[general]
+bars = 30
+framerate = 60
+autosens = 1
+
+[output]
+method = ncurses
+channels = stereo
+
+[color]
+gradient = 1
+gradient_count = 4
+gradient_color_1 = '#2FA4C7'
+gradient_color_2 = '#B04BA3'
+gradient_color_3 = '#7A3E9D'
+gradient_color_4 = '#F6C65B'

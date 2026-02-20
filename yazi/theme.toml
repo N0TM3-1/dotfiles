@@ -1,0 +1,16 @@
+[colors]
+background = "#0b0f2b"
+secondary_background = "#151a3f"
+
+foreground = "#eaeafb"
+secondary_foreground = "#b8b9e6"
+disabled_foreground = "#3b3f7a"
+
+selection_background = "#f6c65b"
+selection_foreground = "#0b0f2b"
+accent = "#b04ba3"
+highlight = "#f6c65b"
+info = "#2fa4c7"
+
+border = "#151a3f"
+line = "#3b3f7a"
